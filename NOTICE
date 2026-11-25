@@ -1,0 +1,12 @@
+The MIT licence in LICENSE covers the source code in this repository only.
+
+The MS COCO images referenced by the generated pairs are not owned by this
+project and are subject to the Flickr terms of use. The COCO annotations, from
+which the positive captions are taken, are distributed under CC BY 4.0. The
+narrative corpus is a Turkish translation of SimpleStories, which is
+distributed under the MIT licence.
+
+The generated pairs are deposited separately at
+https://doi.org/10.5281/zenodo.24527757 under CC BY 4.0. Neither the images
+nor the corpus text are redistributed in this repository or in that deposit;
+both are referenced by identifier.

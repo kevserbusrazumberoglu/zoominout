@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the paper below.
+title: ZoomInOut
+abstract: >-
+  Spiral-traversal-based hard negative generation for cross-modal contrastive
+  learning, with surface-mode labelling and a mode-conditioned residual
+  adapter.
+type: software
+license: MIT
+authors:
+  - given-names: Kevser Büşra
+    family-names: Zümberoğlu
+    affiliation: >-
+      Fatih Sultan Mehmet Waqf University, Department of Computer Programming
+  - given-names: Büşra Sinem
+    family-names: Karadeniz
+    affiliation: >-
+      Yildiz Technical University, Department of Computer Engineering
+  - given-names: Mehmet Fatih
+    family-names: Amasyalı
+    affiliation: >-
+      Yildiz Technical University, Department of Computer Engineering
+references:
+  - type: data
+    title: >-
+      ZoomInOut: traversal-generated contrastive training pairs with
+      surface-mode hard negative labels for MS COCO
+    doi: 10.5281/zenodo.24527757
+    authors:
+      - given-names: Kevser Büşra
+        family-names: Zümberoğlu
+      - given-names: Büşra Sinem
+        family-names: Karadeniz
+      - given-names: Mehmet Fatih
+        family-names: Amasyalı
